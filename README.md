@@ -42,7 +42,8 @@ Our platform is ideal for:
 With the global donation market worth over $450 billion, and digital donations expected to grow significantly, our platform is well-positioned to capture this growing market.
 
 ---
-
+## LINK TO THE HOSTED SITE: 
+[https://social-justice-hackathon.vercel.app/](https://social-justice-hackathon.vercel.app/)
 ## Installation
 
 ### Prerequisites
